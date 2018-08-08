@@ -5,5 +5,7 @@
 form li {
   padding-top 10px!important;
   padding-bottom 12px!important;
-  
+}
+form .instruct{
+  visibility: visible !important;
 }
