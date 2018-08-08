@@ -6,3 +6,13 @@ form li {
   padding-top 10px!important;
   padding-bottom 12px!important;
 }
+.pgStyle1 b {
+  font-size: 100% !important;
+}
+button.link:hover {
+  color: #ee4c9b !important;
+}
+
+button.link {
+  color: #00abc9 !important;
+}
