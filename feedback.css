@@ -4,7 +4,7 @@
 }
 form li {
   padding-top 10px!important;
-  padding-bottom 12px!important;
+  padding-bottom 15px!important;
 }
 .pgStyle1 b {
   font-size: 100% !important;
@@ -15,4 +15,15 @@ button.link:hover {
 
 button.link {
   color: #00abc9 !important;
+}
+
+/*
+Likert Formatting
+*/
+
+.likert tbody th label {
+  font-weight: normal !important;
+}
+.likert caption, .likert tbody th label {
+  font-size: 100%!important;
 }
