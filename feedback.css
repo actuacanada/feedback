@@ -34,8 +34,8 @@ font-weight: bold !important;
 /* 
 Input fields
 */
-.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select {
-  padding: 12px;
+.wufoo input.text, .wufoo textarea.textarea{
+  padding: 5px;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
