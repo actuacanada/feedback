@@ -30,3 +30,13 @@ font-weight: bold !important;
 .likert tbody th label {
   font-size: 100%!important;
 }
+
+/* 
+Input fields
+*/
+.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select {
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
