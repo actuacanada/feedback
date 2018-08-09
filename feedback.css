@@ -20,10 +20,13 @@ button.link {
 /*
 Likert Formatting
 */
-
+.likert caption {
+font-size: 120% !important;
+font-weight: bold !important;
+}
 .likert tbody th label {
   font-weight: normal !important;
 }
-.likert caption, .likert tbody th label {
+.likert tbody th label {
   font-size: 100%!important;
 }
