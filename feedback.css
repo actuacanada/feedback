@@ -31,6 +31,13 @@ font-weight: bold !important;
   font-size: 100%!important;
 }
 
+/*
+Alt Instructions
+*/
+.altInstruct .instruct {
+  color: #cccccc;
+}
+
 /* 
 Input fields
 */
