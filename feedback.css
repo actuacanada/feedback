@@ -34,8 +34,8 @@ font-weight: bold !important;
 /*
 Alt Instructions
 */
-.altInstruct .instruct {
-  color: #cccccc;
+.wufoo .altInstruct .instruct {
+  color: #cccccc!important;
 }
 
 /* 
