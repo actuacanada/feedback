@@ -1,3 +1,16 @@
+.c-title > * {
+  font-size: 180%;
+  font-family: 'Museo-Sans_500';
+  font-style: normal;
+  font-weight: normal;
+  color: #00abc9;
+}
+
+
+/*
+WUFOO STYLING
+*/
+
 #previousPageButton {
   float:left !important;
   padding-right: 10px;
